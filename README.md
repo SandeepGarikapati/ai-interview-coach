@@ -95,21 +95,41 @@ bun dev
 
 ![image stating the feedback of the interview](feedback_page.png)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Deployment
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+To deploy the application on Vercel:
 
-## Learn More
+1. Push your project to a GitHub repository.
+2. Go to the Vercel dashboard and import your repository.
+3. Set up your environment variables in the Vercel project settings.
+4. Deploy the project. Vercel will automatically build and deploy your application.
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technologies Used
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- [Next.js](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Shad cn UI](https://ui.shadcn.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Speech to text cnvertor](https://www.npmjs.com/package/react-hook-stt-fork)
+- [Drizzle orm](https://www.npmjs.com/package/drizzle-orm)
+- [Vercel](https://vercel.com/)
 
-## Deploy on Vercel
+## Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Contributions are welcome! Please follow these steps:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature/your-feature-name`).
+6. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+Thank you for using Ipsum! We hope it helps in your Interview Preparation. If you have any questions or feedback, feel free to open an issue or contact us.
