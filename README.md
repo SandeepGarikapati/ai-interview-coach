@@ -83,14 +83,17 @@ bun dev
    
 ![Image stating how to enter the tech details](howtoenterdetails.png)
 
-3. Check the Tech details and Enable the Webcam and Microphone to start the Interview.
-![Image stating how to enable webcam and microphone]
+2. Check the Tech details and Enable the Webcam and Microphone to start the Interview.
 
-4. Answer the Five Questions displayed to get the feedback.
-![image stating how to answer the interview]
+![Image stating how to enable webcam and microphone](enablemicrophoneandwebcam.png)
 
-5. Checkout the feedback displayed by the ai which indicated detailed analysis of the answer during the Interview.
-![image stating the feedback of the interview]
+3. Answer the Five Questions displayed to get the feedback.
+
+![image stating how to answer the interview](Interview_page.png)
+
+4. Checkout the feedback displayed by the ai which indicated detailed analysis of the answer during the Interview.
+
+![image stating the feedback of the interview](feedback_page.png)
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
