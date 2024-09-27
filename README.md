@@ -80,7 +80,7 @@ bun dev
 ## Usage
 
 1. Fill the required details like tech stack, Experience etc and click on start Interview.
-![Image stating how to enter the tech details]
+![Image stating how to enter the tech details](howtoenterdetails.png)
 
 2. Check the Tech details and Enable the Webcam and Microphone to start the Interview.
 ![Image stating how to enable webcam and microphone]
