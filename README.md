@@ -80,15 +80,16 @@ bun dev
 ## Usage
 
 1. Fill the required details like tech stack, Experience etc and click on start Interview.
+   
 ![Image stating how to enter the tech details](howtoenterdetails.png)
 
-2. Check the Tech details and Enable the Webcam and Microphone to start the Interview.
+3. Check the Tech details and Enable the Webcam and Microphone to start the Interview.
 ![Image stating how to enable webcam and microphone]
 
-3. Answer the Five Questions displayed to get the feedback.
+4. Answer the Five Questions displayed to get the feedback.
 ![image stating how to answer the interview]
 
-4. Checkout the feedback displayed by the ai which indicated detailed analysis of the answer during the Interview.
+5. Checkout the feedback displayed by the ai which indicated detailed analysis of the answer during the Interview.
 ![image stating the feedback of the interview]
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
