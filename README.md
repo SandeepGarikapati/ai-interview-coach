@@ -17,11 +17,11 @@ IPSUM is a web application helps users simulate mock interviews for their desire
 - [License](#license)
 
 ## Features
--**Personalized Interview Questions**: Tailors interview questions based on user input, including job title, tech stack, and years of experience, ensuring relevance to their desired role.
--**Generative AI-Driven Questions**: Utilizes generative AI to create unique and up-to-date interview questions for a wide range of technical roles and industries.
--**Real-Time Feedback**: Provides detailed feedback and ratings after each mock interview, helping users assess their performance and identify areas for improvement.
--**Role-Specific Simulations**: Supports multiple job roles, allowing users to practice interviews for various positions across different technologies and experience levels.
--**Progress Tracking**: Tracks user performance over time, offering insights into their improvement across mock interviews, and helps users prepare more effectively.
+- **Personalized Interview Questions**: Tailors interview questions based on user input, including job title, tech stack, and years of experience, ensuring relevance to their desired role.
+- **Generative AI-Driven Questions**: Utilizes generative AI to create unique and up-to-date interview questions for a wide range of technical roles and industries.
+- **Real-Time Feedback**: Provides detailed feedback and ratings after each mock interview, helping users assess their performance and identify areas for improvement.
+- **Role-Specific Simulations**: Supports multiple job roles, allowing users to practice interviews for various positions across different technologies and experience levels.
+- **Progress Tracking**: Tracks user performance over time, offering insights into their improvement across mock interviews, and helps users prepare more effectively.
 
 ## Getting Started
 
