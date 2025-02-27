@@ -1,4 +1,4 @@
-## ![Ipsum](https://img.logoipsum.com/311.svg).
+# IPSUM
 
 IPSUM is a web application helps users simulate mock interviews for their desired job roles. Users provide key details such as job title, technology stack, and years of experience. Using generative AI, the app fetches relevant interview questions tailored to the specified role and expertise level. After completing the mock interview, users receive feedback with a performance rating, helping them identify areas for improvement. The platform is designed to enhance job readiness through personalized, real-time interview simulations. Ideal for professionals preparing for tech interviews across various domains.
 
